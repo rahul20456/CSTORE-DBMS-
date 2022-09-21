@@ -1,0 +1,10 @@
+{
+  "name": "CStore",
+  "short_name": "CStore",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "CStore!",
+  "background_color": "#fff",
+  "theme_color": "#4a68aa"
+}
